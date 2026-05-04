@@ -117,7 +117,7 @@ g++ main.cpp ParkingLot.cpp ParkingFloor.cpp Reservation.cpp -o parking
 ```
 ===== RESERVATION SUCCESS =====
 ID: RES-10234
-Name: Ramit
+Name: xyz
 Vehicle: WB38AB1234
 Spot: F1-S3
 VIP: YES
